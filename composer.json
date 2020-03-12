@@ -1,0 +1,12 @@
+{
+    "name": "kudrvet/first_project",
+    "description": "my first project with composer",
+    "autoload":{
+	"files": [
+	   "src/Runner.php"
+	]
+    }
+    "require": {
+        "tightenco/collect": "^7.1"
+    }
+}
